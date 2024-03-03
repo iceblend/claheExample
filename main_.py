@@ -1,4 +1,9 @@
 #https://blog.naver.com/samsjang/220542334453
+#https://opencv-python.readthedocs.io/en/latest/doc/20.imageHistogramEqualization/imageHistogramEqualization.html
+#https://redrainkim.github.io/opencvsharp/opencvsharp-study-08/#
+
+#https://kipl.tistory.com/291 -> 소스 설명 존재
+
 
 import cv2
 import numpy as np
